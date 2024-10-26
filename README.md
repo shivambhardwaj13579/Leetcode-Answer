@@ -1,41 +1,20 @@
-# problem solving 
-
-  
-
-
-
-👨‍💻 Community
------
 <p align="center">
 <a href="https://github.com/ahmedna126/java_leetcode_challenges/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ahmedna126/java_leetcode_challenges&max=300">
+  <img src="https://contrib.rocks/image?repo=shivambhardwaj13579/Leetcode-Answer&max=300">
 </a>
 </p>
--->
 
-
-![](https://komarev.com/ghpvc/?username=javaleetcodechallengesahmedna126&color=blue&label=visitors)
-[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
-![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
-![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
-![](https://img.shields.io/github/forks/ahmedna126/java_leetcode_challenges.svg)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ahmedna126)](https://leetcode.com/Ahmedna126)
+# problem solving 
 
 
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivambhardwaj13579.Leetcode-Answer)
+![Watchers](https://img.shields.io/github/watchers/shivambhardwaj13579/Leetcode-Answer.svg)
+![](https://img.shields.io/github/stars/shivambhardwaj13579/Leetcode-Answer.svg)
+![](https://img.shields.io/github/repo-size/shivambhardwaj13579/Leetcode-Answer?style=flat-square)
 
-![](https://vbr.wocr.tk/badge?page_id=/java_leetcode_challenges&color=55acb7&style=for-the-badge&logo=Github)
-[![](https://goreportcard.com/badge/github.com/ahmedna126/java_leetcode_challenges)](https://goreportcard.com/report/github.com/ahmedna126/java_leetcode_challenges)
-[![](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://github.com/ahmedna126/java_leetcode_challenges/blob/master/LICENSE)
-![](https://img.shields.io/github/issues-raw/ahmedna126/java_leetcode_challenges?label=Issues)
-![](https://img.shields.io/github/issues-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+Issues)
-![](https://img.shields.io/github/issues-pr-raw/ahmedna126/java_leetcode_challenges?label=Open+PRs)
-![](https://img.shields.io/github/issues-pr-closed-raw/ahmedna126/java_leetcode_challenges?label=Closed+PRs) 
-![](https://img.shields.io/github/downloads/ahmedna126/java_leetcode_challenges/total.svg)
-![](https://img.shields.io/github/stars/ahmedna126/java_leetcode_challenges.svg)
-![](https://img.shields.io/github/repo-size/ahmedna126/java_leetcode_challenges?style=flat-square)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivambhardwaj13579?theme=dark&font=Noto%20Sans%20Khudawadi&ext=activity)
 
 
 
