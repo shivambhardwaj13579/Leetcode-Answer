@@ -14,8 +14,7 @@
 ![](https://img.shields.io/github/repo-size/shivambhardwaj13579/Leetcode-Answer?style=flat-square)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shivambhardwaj13579?theme=dark&font=Noto%20Sans%20Khudawadi&ext=activity)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivambhardwaj13579?theme=dark&font=Noto%20Sans%20Khudawadi&ext=heatmap)
 
 
 | Num | Question | Difficulty | Solution |
