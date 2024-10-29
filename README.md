@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/ahmedna126/java_leetcode_challenges/graphs/contributors">
+<a href="https://github.com/shivambhardwaj13579/Leetcode-Answer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shivambhardwaj13579/Leetcode-Answer&max=300">
 </a>
 </p>
