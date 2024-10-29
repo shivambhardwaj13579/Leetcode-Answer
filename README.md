@@ -15,7 +15,6 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivambhardwaj13579?theme=dark&font=Noto%20Sans%20Khudawadi&ext=heatmap)
-$\color{Orange}Medium$
 
 
 | Num | Question | Difficulty | Solution |
