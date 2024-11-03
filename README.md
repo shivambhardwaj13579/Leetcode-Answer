@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/ahmedna126/java_leetcode_challenges/graphs/contributors">
+<a href="https://github.com/shivambhardwaj13579/Leetcode-Answer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shivambhardwaj13579/Leetcode-Answer&max=300">
 </a>
 </p>
@@ -19,6 +19,7 @@
 
 | Num | Question | Difficulty | Solution |
 | :--- | :--- | :--- | ---: |
+<<<<<<< HEAD
 |1  | 1. Two Sum | $\color{Green}Easy$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0001.TwoSum.java) |
 |2  | 3. Longest Substring Without Repeating Characters | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/3%20Longest%20Substring%20Without%20Repeating%20Characters%201d3a23c47eca4953982647488992a284.md) |
 |3  | 7. Reverse Integer | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/7%20Reverse%20Integer%20657fce4bb912481991644c066974ef24.md) |
@@ -29,3 +30,15 @@
 |8  | 20. Valid Parentheses | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/20%20Valid%20Parentheses%202a77b16b88924572a0af9a8cf99464e2.md) |
 |9  | 26. Remove Duplicates from Sorted Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/26%20Remove%20Duplicates%20from%20Sorted%20Array%2081a858eea53a4d1cbd4279ff930d57e0.md) |
 |10 | 27. Remove Element | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/27%20Remove%20Element%201c502226a1614830b330f912db240862.md) |
+=======
+| 1 | 1. Two Sum | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0001.TwoSum.java) |
+| 2 | 175.Combine Two Tables | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0175.Combine%20Two%20Tables.sql) |
+| 3 | 176.Second Highest Salary | $\color{Orange}Medium$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0176.Second%20Highest%20Salary.sql) |
+| 4 | 181.Employee Bonus | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0577.Employee%20Bonus.sql) |
+| 5 | 182.Duplicate Emails | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0182.Duplicate%20Emails.sql) |
+| 6 | 183.Customers Who Never Order | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0183.Customers%20Who%20Never%20Order.sql) |
+| 7 | 197.Rising Temperature | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0197.Rising%20Temperature.sql) |
+| 8 | 570.Managers with at Least 5 Direct Reports | $\color{Orange}Medium$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0570.Managers%20with%20at%20Least%205%20Direct%20Reports.sql) |
+| 9 | 577.Employees Earning More Than Their Managers | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0181.Employees%20Earning%20More%20Than%20Their%20Managers.sql) |
+| 10 | 584.Find Customer Referee | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0584.Find%20Customer%20Referee.sql) |
+>>>>>>> 389240c7cc22c29b733d11f9c5c6c8b4cce8d9ae
