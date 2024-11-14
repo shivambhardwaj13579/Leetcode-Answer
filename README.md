@@ -19,18 +19,6 @@
 
 | Num | Question | Difficulty | Solution |
 | :--- | :--- | :--- | ---: |
-<<<<<<< HEAD
-|1  | 1. Two Sum | $\color{Green}Easy$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0001.TwoSum.java) |
-|2  | 3. Longest Substring Without Repeating Characters | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/3%20Longest%20Substring%20Without%20Repeating%20Characters%201d3a23c47eca4953982647488992a284.md) |
-|3  | 7. Reverse Integer | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/7%20Reverse%20Integer%20657fce4bb912481991644c066974ef24.md) |
-|4  | 9. Palindrome Number | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/9%20Palindrome%20Number%206f9d651b72ef4558a564a7dd80c396d0.md) |
-|5  | 12. Integer to Roman | $\color{Orange}Medium$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/12%20Integer%20to%20Roman%204eb642456f43406d954901d58cf68c05.md) |
-|6  | 13. Roman to Integer | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/13%20Roman%20to%20Integer%201a15ded0a7a44c758556671b16c0b897.md) |
-|7  | 14. Longest Common Prefix | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/14%20Longest%20Common%20Prefix%2027cc704b880c45b39ca9bd3650395956.md) |
-|8  | 20. Valid Parentheses | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/20%20Valid%20Parentheses%202a77b16b88924572a0af9a8cf99464e2.md) |
-|9  | 26. Remove Duplicates from Sorted Array | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/26%20Remove%20Duplicates%20from%20Sorted%20Array%2081a858eea53a4d1cbd4279ff930d57e0.md) |
-|10 | 27. Remove Element | $\color{Green}Easy$ | [Link](https://github.com/ahmedna126/java_leetcode_challenges/blob/main/Solutions/27%20Remove%20Element%201c502226a1614830b330f912db240862.md) |
-=======
 | 1 | 1. Two Sum | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0001.TwoSum.java) |
 | 2 | 175.Combine Two Tables | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0175.Combine%20Two%20Tables.sql) |
 | 3 | 176.Second Highest Salary | $\color{Orange}Medium$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0176.Second%20Highest%20Salary.sql) |
@@ -41,4 +29,3 @@
 | 8 | 570.Managers with at Least 5 Direct Reports | $\color{Orange}Medium$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0570.Managers%20with%20at%20Least%205%20Direct%20Reports.sql) |
 | 9 | 577.Employees Earning More Than Their Managers | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0181.Employees%20Earning%20More%20Than%20Their%20Managers.sql) |
 | 10 | 584.Find Customer Referee | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0584.Find%20Customer%20Referee.sql) |
->>>>>>> 389240c7cc22c29b733d11f9c5c6c8b4cce8d9ae
