@@ -29,3 +29,10 @@
 | 8 | 570.Managers with at Least 5 Direct Reports | $\color{Orange}Medium$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0570.Managers%20with%20at%20Least%205%20Direct%20Reports.sql) |
 | 9 | 577.Employees Earning More Than Their Managers | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0181.Employees%20Earning%20More%20Than%20Their%20Managers.sql) |
 | 10 | 584.Find Customer Referee | $\color{Green}{\text{Easy}}$ | [Link](https://github.com/shivambhardwaj13579/Leetcode-Answer/blob/main/Solutions/0584.Find%20Customer%20Referee.sql) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0201-bitwise-and-of-numbers-range) |
+<!---LeetCode Topics End-->
