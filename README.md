@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0201-bitwise-and-of-numbers-range) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
