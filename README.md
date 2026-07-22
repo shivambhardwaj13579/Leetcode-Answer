@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
