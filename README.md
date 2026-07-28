@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
