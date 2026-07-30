@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0014-longest-common-prefix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
