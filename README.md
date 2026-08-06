@@ -80,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
