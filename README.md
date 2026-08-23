@@ -60,6 +60,7 @@
 | [0007-reverse-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -88,6 +89,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
