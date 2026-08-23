@@ -45,6 +45,7 @@
 | [0016-3sum-closest](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0033-search-in-rotated-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
