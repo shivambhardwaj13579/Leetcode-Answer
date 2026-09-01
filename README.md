@@ -48,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
