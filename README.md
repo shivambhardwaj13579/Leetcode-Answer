@@ -69,6 +69,7 @@
 | [0007-reverse-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -184,4 +185,20 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
