@@ -51,6 +51,7 @@
 | [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
@@ -114,6 +115,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -201,4 +205,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
