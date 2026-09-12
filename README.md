@@ -52,6 +52,7 @@
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0046-permutations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0046-permutations) |
 ## Stack
 |  |
 | ------- |
