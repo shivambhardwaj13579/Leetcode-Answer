@@ -75,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+| [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
