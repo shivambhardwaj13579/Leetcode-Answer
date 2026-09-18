@@ -54,6 +54,7 @@
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -66,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
