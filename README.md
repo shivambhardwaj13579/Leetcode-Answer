@@ -76,6 +76,7 @@
 | [0009-palindrome-number](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -98,6 +99,7 @@
 | [0002-add-two-numbers](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
