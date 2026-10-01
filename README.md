@@ -56,6 +56,7 @@
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -189,6 +190,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Matrix
 |  |
@@ -196,6 +198,7 @@
 | [0036-valid-sudoku](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
