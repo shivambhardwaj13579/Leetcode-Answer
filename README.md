@@ -95,6 +95,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0027-remove-element](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
