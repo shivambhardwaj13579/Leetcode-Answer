@@ -57,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -79,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
