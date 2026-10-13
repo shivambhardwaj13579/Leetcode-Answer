@@ -34,6 +34,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Array
 |  |
@@ -81,6 +82,7 @@
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -118,6 +120,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Matrix
 |  |
