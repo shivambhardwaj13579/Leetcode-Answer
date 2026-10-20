@@ -121,6 +121,7 @@
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@
 | [0039-combination-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -248,4 +252,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
