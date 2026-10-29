@@ -58,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -215,6 +216,7 @@
 | [0037-sudoku-solver](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
@@ -230,6 +232,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
