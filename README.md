@@ -85,6 +85,7 @@
 | [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -233,6 +234,7 @@
 | [0022-generate-parentheses](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
