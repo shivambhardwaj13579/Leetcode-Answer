@@ -60,6 +60,7 @@
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -87,6 +88,7 @@
 | [0069-sqrtx](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
@@ -157,6 +159,7 @@
 | [0015-3sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
