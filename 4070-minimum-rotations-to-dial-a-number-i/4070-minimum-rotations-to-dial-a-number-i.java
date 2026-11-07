@@ -1,12 +1,12 @@
 class Solution {
     public int minRotations(String s) {
-        int cur = 0, result = 0;
-        for (char c : s.toCharArray()) {
-            int digit = c - '0';
-            int d = (digit - cur + 10) % 10;  // turning up
-            result += Math.min(d, 10 - d);  // shorter direction
-            cur = digit;
+        int ans = 0;
+        int curr = 0;
+        for(char c : s.toCharArray()) {
+            int now = Math.abs(curr - (c-'0'));
+            ans += Math.min(now , 10 - now);
+            curr = c-'0';
         }
-        return result;
+        return ans;
     }
 }
