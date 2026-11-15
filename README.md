@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -239,6 +241,7 @@
 | [0064-minimum-path-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0096-unique-binary-search-trees) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
