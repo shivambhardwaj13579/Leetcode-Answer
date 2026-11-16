@@ -130,6 +130,7 @@
 | [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Matrix
 |  |
