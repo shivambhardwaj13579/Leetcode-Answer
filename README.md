@@ -131,6 +131,7 @@
 | [0257-binary-tree-paths](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
