@@ -63,6 +63,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0835-image-overlap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0011-container-with-most-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1927-sum-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
@@ -166,6 +168,7 @@
 | [0016-3sum-closest](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivambhardwaj13579/Leetcode-Answer/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
 |  |
